@@ -8,6 +8,7 @@ public class Student {
         sita.roll=34;
         sita.name="sita adk";
 System.out.println(sita.percent);
+System.out.println("bobbydeol");
     }
     
 }
